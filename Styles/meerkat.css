@@ -1,0 +1,18 @@
+﻿
+h1 {color: BlueViolet;}
+h1 em {font-size: 36px;}
+h2 {font-size: 24px;}
+p {font-size: 18px;}
+h1, h2, p {margin-left: 1em;}
+ul li ul li em {color: Green; border-style: outset;}
+li{font-family: arial, sans-serif;}
+#Li1{font-weight: 100; color: red;}
+#Li2{font-weight: 200;}
+#Li3{font-weight: 300;}
+#Li4{font-weight: 400;}
+#Li5{font-weight: bold;}
+#Li6{font-weight: 600;}
+#Li7{font-weight: 700;}
+#Li8{font-weight: 800;}
+#Li9{font-weight: 900;}
+/* 5.4 page 116 */             

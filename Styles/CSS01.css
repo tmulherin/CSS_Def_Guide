@@ -1,0 +1,23 @@
+﻿*{font-family: Verdana, Sans-Serif; color: Lime}
+body {}
+h1{color: gray;}
+h2{color: silver;}
+p, h3{color: navy;}
+#lead-para{font-family: Tahoma}
+.warning{color: Red; 
+         font-weight: bold;}
+.urgent{font-style: italic}
+.warning.urgent{background: silver;}
+.urgent.warning.help{font-size: large; 
+                     background: pink;}
+p[title]{border-style: outset;}
+a[href][title]{font-size: smaller;}
+a[href="http://www.css-discuss.org/about.html"] {font-weight: bold; }
+:link{color: blue; 
+      text-decoration: none;}
+:visited{color: Purple; 
+         text-decoration: none;}
+:hover{color: red;}
+:active{color: Orange;}
+:visited:hover{color: Maroon;}
+/* Page 40 */

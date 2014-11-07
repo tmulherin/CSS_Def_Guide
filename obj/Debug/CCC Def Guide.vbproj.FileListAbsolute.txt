@@ -1,0 +1,8 @@
+C:\Users\tmulher\Documents\_dev\CCC Def Guide\bin\CCC Def Guide.dll
+C:\Users\tmulher\Documents\_dev\CCC Def Guide\bin\CCC Def Guide.pdb
+C:\Users\tmulher\Documents\_dev\CCC Def Guide\bin\CCC Def Guide.xml
+C:\Users\tmulher\Documents\_dev\CCC Def Guide\obj\Debug\CCC_Def_Guide.Resources.resources
+C:\Users\tmulher\Documents\_dev\CCC Def Guide\obj\Debug\CCC Def Guide.vbproj.GenerateResource.Cache
+C:\Users\tmulher\Documents\_dev\CCC Def Guide\obj\Debug\CCC Def Guide.dll
+C:\Users\tmulher\Documents\_dev\CCC Def Guide\obj\Debug\CCC Def Guide.xml
+C:\Users\tmulher\Documents\_dev\CCC Def Guide\obj\Debug\CCC Def Guide.pdb
